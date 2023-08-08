@@ -1,6 +1,6 @@
 # Price-Forecasting-Real-Time-Visualisation-GSite
 
-Ashish Murlidhar Pagote and Tianlu Lu
+Created by: Ashish Murlidhar Pagote and Tianlu Lu
 
 Introduction of Data:
 The market price of a product can change for many reasons. The relation of market supply and customer demand influences the price of a product most. Also, there are many other reasons, such as technology innovation, society stability or customer preference, can also affect the price of goods.
